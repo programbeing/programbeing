@@ -35,6 +35,7 @@
 
 ### **Cloud Security Engineer Intern**
 **VTF**, CA 
+
 *NOV 2023 - JAN 2024*
 
 - Designed and developed a **Designing and Implementing Security controls** for the Azure, GCP platform
