@@ -31,13 +31,13 @@
 
 ---
 
-## Work Experience :-->
+## Work Experience 
 
 ### **Cloud Security Engineer Intern**
 **VTF**, CA 
 *NOV 2023 - JAN 2024*
-- Designed and developed a **Designing and Implementing Security controls for the Azure, GCP platform
-Microsoft Azure Security, compliance, Identity fundamentals**
+- Designed and developed a **Designing and Implementing Security controls** for the Azure, GCP platform
+- Microsoft Azure **Security, compliance, Identity fundamentals**
 
 - **Tech Stack:** Python, Azure, GIT, MongoDB, Docker, CI/CD, Kafka
 
@@ -45,9 +45,9 @@ Microsoft Azure Security, compliance, Identity fundamentals**
 **Tata**, Pune, India  
 *April 2023 - Oct 2023*
 
-. Integrated OWASP Best Practices into security protocols, enhancing overall system integrity.
-. Developed comprehensive security checklists and playbooks to streamline security processes.
-. Gained hands-on experience with tools like Burpsuite, Nessus, and Metasploit Framework, improving vulnerability assessment capabilities.
+. Integrated **OWASP Best Practices into security protocols, enhancing overall system integrity.**
+. Developed comprehensive **security checklists and playbooks to streamline security processes.**
+. Gained hands-on experience with tools like **Burpsuite, Nessus, and Metasploit Framework, improving vulnerability assessment capabilities.**
 
 - **Tech Stack:** Information Security
 
