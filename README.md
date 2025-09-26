@@ -31,6 +31,51 @@
 
 ---
 
+## Work Experience
+
+### **Software Engineer II**
+**Cisco**, Bengaluru, India  
+*May 2022 - Present*
+
+- Designed and developed a **centralised notification library** used in **30+** microservices to allow updates to be made in one place, reducing maintenance time and effort by **95%**.
+- Built and integrated microservices for self-provisioning of private cloud services like Kafka & Load Balancer, supporting CRUD and real-time notifications, which accelerated the entire process flow by **90%** for internal customers.
+- Led the development of a client-facing **Status Page** to publicly communicate the status of **100+ API** endpoints, increasing customer satisfaction and transparency.
+- Led E2E brownfield migration for **100+ OpenStack resources**, reducing provisioning time by **94%**.
+- Designed and implemented an effective PR review process and sanity checklist, reducing PR comments and increasing development speed by **80%**.
+- **Tech Stack:** REST API, Golang, GIT, Swagger, MongoDB, Docker, Jenkins, CI/CD, Openshift, ELK, Kafka
+
+### **Software Engineer I**
+**Cisco**, Bengaluru, India  
+*Aug 2021 - Apr 2022*
+
+- Implemented config audit automation for network devices, reducing manual work by **85%**.
+- Implemented Pre/Post checks automation, leading to a **50%** time improvement in the change request window.
+- **Tech Stack:** JavaScript, Python, Git, BPA, Cisco NSO
+
+### **Software Engineer Intern**
+**Cisco**, Bengaluru, India  
+*Jan 2021 - Jul 2021*
+
+- Developed a one-stop portal for **5+** network dashboards supporting flexible updates, enhancing the efficiency of network teams.
+- **Tech Stack:** ReactJS, Docker, Git, Bootstrap/SaaS, Jenkins, CI/CD, Openshift
+
+---
+
+## Education
+
+**B.Tech in CSE**, Dr.BATU 
+
+
+
+---
+
+## Initiatives & Projects
+
+- Developed a **Go CLI Utility** to automate schema generation tasks for the cost management tool, improving efficiency by **10x**.
+- Led the **UI modernization** of an entire application by designing a complete prototype for over **20+** screens in Figma to meet current industry standards.
+
+---
+
 ### :fire: My Stats :
 
 [![programbeing GitHub stats](https://github-readme-stats.vercel.app/api?username=programbeing)](https://github.com/programbeing/github-readme-stats)
