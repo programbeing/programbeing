@@ -92,6 +92,18 @@ Dr.BATU
 - Developed a **Go CLI Utility** to automate schema generation tasks for the cost management tool, improving efficiency by **10x**.
 - Led the **UI modernization** of an entire application by designing a complete prototype for over **20+** screens in Figma to meet current industry standards.
 
+**Markowitz Portfolio Optimizer (June 2024) :- **
+
+Developed a Python-based tool to optimize financial portfolios by maximizing the Sharpe ratio and identifying the efficient frontier.
+Implemented mean-variance optimization and constrained minimization techniques using NumPy, pandas, and SciPy to calculate optimal portfolio weights and minimize volatility for various target returns.
+Selected and ranked the top 10 stocks based on optimal weights, enhancing investment decision-making through robust portfolio performance analysis.
+
+**Heart Disease Prediction (July 2022)**
+
+Implemented predictive models using Logistic Regression, KNN, and Random Forest.
+Conducted exploratory data analysis and feature selection on data from 300 patients.
+Compared model accuracies to select the most effective algorithm.
+
 ---
 
 ### :fire: My Stats :
