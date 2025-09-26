@@ -31,41 +31,56 @@
 
 ---
 
-## Work Experience
+## Work Experience :-->
 
-### **Software Engineer II**
-**Cisco**, Bengaluru, India  
-*May 2022 - Present*
+### **Cloud Security Engineer Intern**
+**VTF**, CA 
+*NOV 2023 - JAN 2024*
+- Designed and developed a **Designing and Implementing Security controls for the Azure, GCP platform
+Microsoft Azure Security, compliance, Identity fundamentals**
 
-- Designed and developed a **centralised notification library** used in **30+** microservices to allow updates to be made in one place, reducing maintenance time and effort by **95%**.
-- Built and integrated microservices for self-provisioning of private cloud services like Kafka & Load Balancer, supporting CRUD and real-time notifications, which accelerated the entire process flow by **90%** for internal customers.
-- Led the development of a client-facing **Status Page** to publicly communicate the status of **100+ API** endpoints, increasing customer satisfaction and transparency.
-- Led E2E brownfield migration for **100+ OpenStack resources**, reducing provisioning time by **94%**.
-- Designed and implemented an effective PR review process and sanity checklist, reducing PR comments and increasing development speed by **80%**.
-- **Tech Stack:** REST API, Golang, GIT, Swagger, MongoDB, Docker, Jenkins, CI/CD, Openshift, ELK, Kafka
+- **Tech Stack:** Python, Azure, GIT, MongoDB, Docker, CI/CD, Kafka
 
-### **Software Engineer I**
-**Cisco**, Bengaluru, India  
-*Aug 2021 - Apr 2022*
+### **Cyber Security Trainee**
+**Tata**, Pune, India  
+*April 2023 - Oct 2023*
 
-- Implemented config audit automation for network devices, reducing manual work by **85%**.
-- Implemented Pre/Post checks automation, leading to a **50%** time improvement in the change request window.
-- **Tech Stack:** JavaScript, Python, Git, BPA, Cisco NSO
+. Integrated OWASP Best Practices into security protocols, enhancing overall system integrity.
+. Developed comprehensive security checklists and playbooks to streamline security processes.
+. Gained hands-on experience with tools like Burpsuite, Nessus, and Metasploit Framework, improving vulnerability assessment capabilities.
 
-### **Software Engineer Intern**
-**Cisco**, Bengaluru, India  
-*Jan 2021 - Jul 2021*
+- **Tech Stack:** Information Security
 
-- Developed a one-stop portal for **5+** network dashboards supporting flexible updates, enhancing the efficiency of network teams.
-- **Tech Stack:** ReactJS, Docker, Git, Bootstrap/SaaS, Jenkins, CI/CD, Openshift
+### **Python Developer**
+**Sahu Technologies**, Mumbai, India  
+*Feb 2021 - June 2021*
+
+- Completed small project in Web Development
+- Also covered non-technical measures such as awareness raising campaigns and training programs for employees.
+
+- **Tech Stack:** PYTHON
+
+### **In-Plant Trainee**
+**Gharda Chemicals LTD**, Mumbai, India  
+*Jan 2020 - Feb 2020*
+
+- The goal is to protect the IT infrastructure from unauthorized access or harm to ensure an organization data remains secure.
+- Investigating Insider Threat
+
+- **Tech Stack:**: IT Infrastructure Design
+
+  
+### **.NET / Web Developer Intern**
+**Stormsoft Technology**, India  
+*Sep 2018 - Jan 2019*
+
+. Hands-on experience in coding, debugging, and implementing features to meet project requirements.
 
 ---
 
 ## Education
 
 **B.Tech in CSE**, Dr.BATU 
-
-
 
 ---
 
