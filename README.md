@@ -4,6 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm SHREYAS </h1>
 
+# REACH OUT To Me:-
+
+**Email:** [shreyas05288@gmail.com](mailto:shreyas05288@gmail.com)   
+**Location:** Mumbai, India  
+
+
+---
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-hub" alt="rishav-hub" /></a> </p>
