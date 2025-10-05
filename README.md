@@ -31,7 +31,7 @@
 
 ---
 
-## Work Experience 
+## Experience 
 
 ### **Cloud Security Engineer Intern**
 **VTF**, CA 
