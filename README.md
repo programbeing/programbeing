@@ -90,6 +90,12 @@ Dr.BATU
 
 ---
 
+## Certification
+
+
+
+---
+
 ## Initiatives & Projects
 
 - Developed a **Go CLI Utility** to automate schema generation tasks for the cost management tool, improving efficiency by **10x**.
