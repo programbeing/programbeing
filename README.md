@@ -66,7 +66,7 @@
 - **Tech Stack:** PYTHON
 
 ### **In-Plant Trainee**
-**Gharda Chemicals LTD**, Mumbai, India  
+**GCL**, Mumbai, India  
 *Jan 2020 - Feb 2020*
 
 - The goal is to protect the IT infrastructure from unauthorized access or harm to ensure an organization data remains secure.
