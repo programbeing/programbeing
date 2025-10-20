@@ -44,7 +44,7 @@
 
 - **Tech Stack:** Python, Azure, GIT, MongoDB, Docker, CI/CD, Kafka
 
-### **Cyber Security Trainee**
+### **Cyber Security Intern**
 **Tata**, Pune, India  
 *April 2023 - Oct 2023*
 
@@ -56,7 +56,7 @@
 
 - **Tech Stack:** Information Security
 
-### **Python Developer**
+### **Python Developer Intern**
 **Sahu Technologies**, Mumbai, India  
 *Feb 2021 - June 2021*
 
