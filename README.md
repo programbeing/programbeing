@@ -34,7 +34,7 @@
 
 ## Experience 
 
-### **Cloud Security Engineer Intern**
+### **Cloud Security Intern**
 **VTF**, CA 
 
 *NOV 2023 - JAN 2024*
