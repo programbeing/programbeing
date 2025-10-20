@@ -48,11 +48,11 @@
 **Tata**, Pune, India  
 *April 2023 - Oct 2023*
 
-. Integrated **OWASP Best Practices into security protocols, enhancing overall system integrity.**
+- Integrated **OWASP Best Practices into security protocols, enhancing overall system integrity.**
 
-. Developed comprehensive **security checklists and playbooks to streamline security processes.**
+- Developed comprehensive **security checklists and playbooks to streamline security processes.**
 
-. Gained hands-on experience with tools like **Burpsuite, Nessus, and Metasploit Framework, improving vulnerability assessment capabilities.**
+- Gained hands-on experience with tools like **Burpsuite, Nessus, and Metasploit Framework, improving vulnerability assessment capabilities.**
 
 - **Tech Stack:** Information Security
 
@@ -79,7 +79,7 @@
 **Stormsoft Technology**, India  
 *Sep 2018 - Jan 2019*
 
-. Hands-on experience in coding, debugging, and implementing features to meet project requirements.
+- Hands-on experience in coding, debugging, and implementing features to meet project requirements.
 
 ---
 ---
