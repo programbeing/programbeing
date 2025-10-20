@@ -96,6 +96,12 @@ Dr.BATU
 ## Certification
 
 - CyberSecurity from **Tata Communication**
+  
+- Network Defense  from **Ec-council**
+  
+- Google CyberSecurity Certificate from Google
+
+- 
 
 
 
