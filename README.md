@@ -86,7 +86,7 @@
 
 ## Education
 
-**B.Tech in CSE**, 
+**B.E in CSE**, 
 
 Dr.BATU 
 
