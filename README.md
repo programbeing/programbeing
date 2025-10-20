@@ -99,9 +99,15 @@ Dr.BATU
   
 - Network Defense  from **Ec-council**
   
-- Google CyberSecurity Certificate from Google
+- Google CyberSecurity Certificate from **Google**
 
-- 
+- Google Project Management Certificate from **Google**
+
+- **Whizlabs:-**
+  - AWS Certified Security Specialty
+  - Azure AZ-500
+  - Azure SC-900
+   
 
 
 
