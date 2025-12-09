@@ -134,7 +134,7 @@ Dr.BATU
     - Implemented mean-variance optimization and constrained minimization techniques using NumPy, pandas, and SciPy to calculate optimal portfolio weights and minimize volatility for various target returns.
     - Selected and ranked the top 10 stocks based on optimal weights, enhancing investment decision-making through robust portfolio performance analysis.
 
---
+
 
 <!--
 ### :fire: My Stats :
