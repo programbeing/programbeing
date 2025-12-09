@@ -136,6 +136,7 @@ Dr.BATU
 
 --
 
+<!--
 ### :fire: My Stats :
 
 [![programbeing's GitHub stats](https://github-readme-stats.vercel.app/api?username=programbeing&show_icons=true&theme=default)](https://github.com/programbeing)
