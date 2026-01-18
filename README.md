@@ -54,7 +54,7 @@
 
 - **Tech Stack:** Python, Azure, GIT, MongoDB, Docker, CI/CD, Kafka
 
-### **Cyber Security **
+### **  Cyber Security **
 **Tata**, Pune, India  
 *April 2023 - Oct 2023*
 
