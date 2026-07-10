@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Panniantong&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Panniantong?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/Panniantong?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=programbeing&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/programbeing?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/programbeing?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
 
 </div>
 
