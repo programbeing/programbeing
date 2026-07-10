@@ -62,8 +62,8 @@ neo = {
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**Agent-Reach**](https://github.com/programbeing/Agent-Reach) | ![Stars](https://img.shields.io/github/stars/programbeing/Agent-Reach?style=flat&color=f5c542&label=⭐) | Give your AI agent eyes to see the entire internet |
-| [**xfetch**](https://github.com/programbeing/xfetch) | ![Stars](https://img.shields.io/github/stars/programbeing/xfetch?style=flat&color=f5c542&label=⭐) | Fast X/Twitter CLI scraper. No API keys. |
+| '''[**Agent-Reach**](https://github.com/programbeing/Agent-Reach)''' | ![Stars](https://img.shields.io/github/stars/programbeing/Agent-Reach?style=flat&color=f5c542&label=⭐) | Upcoming |
+| [**xfetch**](https://github.com/programbeing/xfetch) | ![Stars](https://img.shields.io/github/stars/programbeing/xfetch?style=flat&color=f5c542&label=⭐) | Upcoming |
 
 ---
 
