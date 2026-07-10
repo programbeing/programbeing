@@ -62,8 +62,8 @@ neo = {
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| `[**Agent-Reach**](https://github.com/programbeing/Agent-Reach)` | ![Stars](https://img.shields.io/github/stars/programbeing/Agent-Reach?style=flat&color=f5c542&label=⭐) | Upcoming |
-| `[**xfetch**](https://github.com/programbeing/xfetch)` | ![Stars](https://img.shields.io/github/stars/programbeing/xfetch?style=flat&color=f5c542&label=⭐) | Upcoming |
+| Upcoming | ![Stars](https://img.shields.io/github/stars/programbeing/Agent-Reach?style=flat&color=f5c542&label=⭐) | Upcoming |
+| Upcoming| ![Stars](https://img.shields.io/github/stars/programbeing/xfetch?style=flat&color=f5c542&label=⭐) | Upcoming |
 
 ---
 
