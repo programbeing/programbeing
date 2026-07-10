@@ -13,11 +13,11 @@
 
 ```python
 neo = {
-    "name": "Neo Reid",
-    "since": 2020,
-    "motto": "Ship it. Open-source it. Move on.",
-    "team": "Solo founder. All employees are AI.",
-    "focus": "AI agents that actually do things",
+    "Name": "programbeing",
+    "Since": 2021,
+    "Motto": "Ship it. Open-source it. Move on.",
+    "Team": "Solo founder. All employees are AI.",
+    "Focus": "AI, Data Engineer, Backend Development",
 }
 ```
 
