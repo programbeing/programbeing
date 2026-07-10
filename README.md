@@ -38,10 +38,10 @@ neo = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/programbeing/programbeing/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/programbeing/programbeing/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/programbeing/programbeing/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 </div>
 
@@ -51,8 +51,8 @@ neo = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/programbeing/programbeing/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/programbeing/programbeing/master/profile-summary-card-output/github_dark/3-stats.svg" />
 
 </div>
 
@@ -62,19 +62,19 @@ neo = {
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | ![Stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat&color=f5c542&label=⭐) | Give your AI agent eyes to see the entire internet |
-| [**xfetch**](https://github.com/Panniantong/xfetch) | ![Stars](https://img.shields.io/github/stars/Panniantong/xfetch?style=flat&color=f5c542&label=⭐) | Fast X/Twitter CLI scraper. No API keys. |
+| [**Agent-Reach**](https://github.com/programbeing/Agent-Reach) | ![Stars](https://img.shields.io/github/stars/programbeing/Agent-Reach?style=flat&color=f5c542&label=⭐) | Give your AI agent eyes to see the entire internet |
+| [**xfetch**](https://github.com/programbeing/xfetch) | ![Stars](https://img.shields.io/github/stars/programbeing/xfetch?style=flat&color=f5c542&label=⭐) | Fast X/Twitter CLI scraper. No API keys. |
 
 ---
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Panniantong/new-api-neo/pull/1) in [Panniantong/new-api-neo](https://github.com/Panniantong/new-api-neo)
-2. 💪 Opened PR [#1](https://github.com/Panniantong/new-api-neo/pull/1) in [Panniantong/new-api-neo](https://github.com/Panniantong/new-api-neo)
-3. 🎉 Merged PR [#469](https://github.com/Panniantong/Agent-Reach/pull/469) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-4. 💪 Opened PR [#469](https://github.com/Panniantong/Agent-Reach/pull/469) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-5. 🎉 Merged PR [#467](https://github.com/Panniantong/Agent-Reach/pull/467) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+1. 🎉 Merged PR [#1](https://github.com/programbeing/new-api-neo/pull/1) in [programbeing/new-api-neo](https://github.com/programbeing/new-api-neo)
+2. 💪 Opened PR [#1](https://github.com/programbeing/new-api-neo/pull/1) in [programbeing/new-api-neo](https://github.com/programbeing/new-api-neo)
+3. 🎉 Merged PR [#469](https://github.com/programbeing/Agent-Reach/pull/469) in [programbeing/Agent-Reach](https://github.com/programbeing/Agent-Reach)
+4. 💪 Opened PR [#469](https://github.com/programbeing/Agent-Reach/pull/469) in [programbeing/Agent-Reach](https://github.com/programbeing/Agent-Reach)
+5. 🎉 Merged PR [#467](https://github.com/programbeing/Agent-Reach/pull/467) in [programbeing/Agent-Reach](https://github.com/programbeing/Agent-Reach)
 <!--END_SECTION:activity-->
 
 ---
