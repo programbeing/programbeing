@@ -83,7 +83,7 @@ neo = {
 
 <div align="center">
 
-[![Twitter][![X Profile](https://img.shields.io/badge/@shreyas99990-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shreyas99990)
+[![Twitter](https://img.shields.io/badge/@shreyas99990-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shreyas99990)
 
 </div>
 
