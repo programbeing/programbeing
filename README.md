@@ -12,12 +12,12 @@
 ## `> whoami`
 
 ```python
-neo = {
-    "Name": "programbeing",
-    "Since": 2021,
-    "Motto": "Ship it. Open-source it. Move on.",
-    "Team": "Solo founder. All employees are AI.",
-    "Focus": "AI, Data Engineer, Backend Development",
+shreyas = {
+     "Name": "programbeing",
+     "Since": 2021,
+     "Motto": "Ship it. Open-source it. Move on.",
+     "Team": "Solo founder. All employees are AI.",
+     "Focus": "AI, Data Engineer, Backend Development"
 }
 ```
 
